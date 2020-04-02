@@ -1,0 +1,8 @@
+Author/Programmer - Adam Pedersen
+Created 5/10/2019
+
+Progam is ran by running the executable
+A new game can be started by going to File --> New
+To move a piece select it by clicking it, then select a valid move based on a red circle on any tile
+
+No known bugs exist at this time

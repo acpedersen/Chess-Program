@@ -1,0 +1,22 @@
+E:\Data Structures and Algorithms\Projects\Final Project\Chess Program\Chess Program\obj\Debug\Chess_Program.ChessForm.resources
+E:\Data Structures and Algorithms\Projects\Final Project\Chess Program\Chess Program\obj\Debug\Chess_Program.GameBoard.resources
+E:\Data Structures and Algorithms\Projects\Final Project\Chess Program\Chess Program\obj\Debug\Chess_Program.Properties.Resources.resources
+E:\Data Structures and Algorithms\Projects\Final Project\Chess Program\Chess Program\obj\Debug\Chess Program.csproj.GenerateResource.Cache
+E:\Data Structures and Algorithms\Projects\Final Project\Chess Program\Chess Program\obj\Debug\Chess Program.csproj.CoreCompileInputs.cache
+E:\Data Structures and Algorithms\Projects\Final Project\Chess Program\Chess Program\bin\Debug\Chess Program.exe.config
+E:\Data Structures and Algorithms\Projects\Final Project\Chess Program\Chess Program\bin\Debug\Chess Program.exe
+E:\Data Structures and Algorithms\Projects\Final Project\Chess Program\Chess Program\bin\Debug\Chess Program.pdb
+E:\Data Structures and Algorithms\Projects\Final Project\Chess Program\Chess Program\obj\Debug\Chess Program.exe
+E:\Data Structures and Algorithms\Projects\Final Project\Chess Program\Chess Program\obj\Debug\Chess Program.pdb
+D:\Data Structures and Algorithms\Projects\Final Project\Chess Program\Chess Program\bin\Debug\Chess Program.exe.config
+D:\Data Structures and Algorithms\Projects\Final Project\Chess Program\Chess Program\bin\Debug\Chess Program.exe
+D:\Data Structures and Algorithms\Projects\Final Project\Chess Program\Chess Program\bin\Debug\Chess Program.pdb
+D:\Data Structures and Algorithms\Projects\Final Project\Chess Program\Chess Program\obj\Debug\Chess Program.csprojAssemblyReference.cache
+D:\Data Structures and Algorithms\Projects\Final Project\Chess Program\Chess Program\obj\Debug\Chess_Program.ChessForm.resources
+D:\Data Structures and Algorithms\Projects\Final Project\Chess Program\Chess Program\obj\Debug\Chess_Program.GameBoard.resources
+D:\Data Structures and Algorithms\Projects\Final Project\Chess Program\Chess Program\obj\Debug\Chess_Program.Properties.Resources.resources
+D:\Data Structures and Algorithms\Projects\Final Project\Chess Program\Chess Program\obj\Debug\Chess Program.csproj.GenerateResource.cache
+D:\Data Structures and Algorithms\Projects\Final Project\Chess Program\Chess Program\obj\Debug\Chess Program.csproj.CoreCompileInputs.cache
+D:\Data Structures and Algorithms\Projects\Final Project\Chess Program\Chess Program\obj\Debug\Chess Program.exe
+D:\Data Structures and Algorithms\Projects\Final Project\Chess Program\Chess Program\obj\Debug\Chess Program.pdb
+E:\Data Structures and Algorithms\Projects\Final Project\Chess Program\Chess Program\obj\Debug\Chess Program.csprojResolveAssemblyReference.cache
